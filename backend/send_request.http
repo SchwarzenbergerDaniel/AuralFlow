@@ -1,0 +1,6 @@
+POST http://127.0.0.1:5000/upload_from_url
+Content-Type: application/json
+
+{
+    "url": "https://youtu.be/zHEHEI9LaPA?si=Zar89QjLWBmhGneG"
+}
